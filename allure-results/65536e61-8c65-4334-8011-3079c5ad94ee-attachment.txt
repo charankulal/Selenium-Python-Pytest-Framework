@@ -1,0 +1,8 @@
+INFO     test_form_submission:test_home_page.py:14 Opened home page
+INFO     test_form_submission:test_home_page.py:17 Entered Name Kavya
+INFO     test_form_submission:test_home_page.py:20 Entered Email kavya@gmail.com
+INFO     test_form_submission:test_home_page.py:23 Entered Password syyytssgffgGFGFG
+INFO     test_form_submission:test_home_page.py:26 Clicked on checkbox 
+INFO     test_form_submission:test_home_page.py:30 Entered Gender Female
+INFO     test_form_submission:test_home_page.py:33 Clicked on radio button
+INFO     test_form_submission:test_home_page.py:37 Submitted the form

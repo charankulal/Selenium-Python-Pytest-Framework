@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","340","test_form_submission[getData2]","tests","Tue Oct 22 15:28:14 IST 2024","passed","Tue Oct 22 15:28:14 IST 2024","TestHomePage","test_home_page","",""
+"","396","test_form_submission[getData1]","tests","Tue Oct 22 15:28:13 IST 2024","passed","Tue Oct 22 15:28:14 IST 2024","TestHomePage","test_home_page","",""
+"","472","test_form_submission[getData0]","tests","Tue Oct 22 15:28:13 IST 2024","passed","Tue Oct 22 15:28:13 IST 2024","TestHomePage","test_home_page","",""
+"","334","test_form_submission[getData3]","tests","Tue Oct 22 15:28:14 IST 2024","passed","Tue Oct 22 15:28:14 IST 2024","TestHomePage","test_home_page","",""
+"","393","test_form_submission[getData4]","tests","Tue Oct 22 15:28:14 IST 2024","passed","Tue Oct 22 15:28:15 IST 2024","TestHomePage","test_home_page","",""
+"","420","test_form_submission[getData5]","tests","Tue Oct 22 15:28:15 IST 2024","passed","Tue Oct 22 15:28:15 IST 2024","TestHomePage","test_home_page","",""
+"","6014","test_end_2_end","tests","Tue Oct 22 15:28:04 IST 2024","passed","Tue Oct 22 15:28:10 IST 2024","TestOne","end_to_end_test","",""

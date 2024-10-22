@@ -1,0 +1,9 @@
+INFO     test_end_2_end:end_to_end_test.py:16 Click on shop button
+INFO     test_end_2_end:end_to_end_test.py:19 Get all products 
+INFO     test_end_2_end:end_to_end_test.py:25 Blackberry phone is added to cart
+INFO     test_end_2_end:end_to_end_test.py:30 Clicked checkout button
+INFO     test_end_2_end:end_to_end_test.py:32 Clicked checkout button on confirmation page
+INFO     test_end_2_end:end_to_end_test.py:36 Searching for the country to check availability
+INFO     test_end_2_end:end_to_end_test.py:39 Selecting India after searching
+INFO     test_end_2_end:end_to_end_test.py:43 Accepting terms and conditions
+INFO     test_end_2_end:end_to_end_test.py:47 Clicked Purchase button

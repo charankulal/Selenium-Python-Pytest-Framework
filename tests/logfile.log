@@ -1,0 +1,168 @@
+2024-10-22 15:30:20,072 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:20,133 : INFO : test_form_submission : Entered Name Charan
+2024-10-22 15:30:20,185 : INFO : test_form_submission : Entered Email charan@gmail.com
+2024-10-22 15:30:20,235 : INFO : test_form_submission : Entered Password Charan@1234
+2024-10-22 15:30:20,280 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:20,320 : INFO : test_form_submission : Entered Gender Male
+2024-10-22 15:30:20,351 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:20,393 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:20,530 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:20,530 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:20,590 : INFO : test_form_submission : Entered Name Manvitha
+2024-10-22 15:30:20,590 : INFO : test_form_submission : Entered Name Manvitha
+2024-10-22 15:30:20,632 : INFO : test_form_submission : Entered Email man@g.com
+2024-10-22 15:30:20,632 : INFO : test_form_submission : Entered Email man@g.com
+2024-10-22 15:30:20,671 : INFO : test_form_submission : Entered Password Man@12345twuy
+2024-10-22 15:30:20,671 : INFO : test_form_submission : Entered Password Man@12345twuy
+2024-10-22 15:30:20,701 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:20,701 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:20,747 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:20,747 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:20,778 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:20,778 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:20,806 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:20,806 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:20,914 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:20,914 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:20,914 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:20,968 : INFO : test_form_submission : Entered Name Shesha
+2024-10-22 15:30:20,968 : INFO : test_form_submission : Entered Name Shesha
+2024-10-22 15:30:20,968 : INFO : test_form_submission : Entered Name Shesha
+2024-10-22 15:30:21,012 : INFO : test_form_submission : Entered Email shsh@g.com
+2024-10-22 15:30:21,012 : INFO : test_form_submission : Entered Email shsh@g.com
+2024-10-22 15:30:21,012 : INFO : test_form_submission : Entered Email shsh@g.com
+2024-10-22 15:30:21,060 : INFO : test_form_submission : Entered Password dggde2uygy2ueg
+2024-10-22 15:30:21,060 : INFO : test_form_submission : Entered Password dggde2uygy2ueg
+2024-10-22 15:30:21,060 : INFO : test_form_submission : Entered Password dggde2uygy2ueg
+2024-10-22 15:30:21,091 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,091 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,091 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,115 : INFO : test_form_submission : Entered Gender Male
+2024-10-22 15:30:21,115 : INFO : test_form_submission : Entered Gender Male
+2024-10-22 15:30:21,115 : INFO : test_form_submission : Entered Gender Male
+2024-10-22 15:30:21,145 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,145 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,145 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,173 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,173 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,173 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,284 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:21,284 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:21,284 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:21,284 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:21,334 : INFO : test_form_submission : Entered Name Rayappa
+2024-10-22 15:30:21,334 : INFO : test_form_submission : Entered Name Rayappa
+2024-10-22 15:30:21,334 : INFO : test_form_submission : Entered Name Rayappa
+2024-10-22 15:30:21,334 : INFO : test_form_submission : Entered Name Rayappa
+2024-10-22 15:30:21,384 : INFO : test_form_submission : Entered Email ray@gsgg.com
+2024-10-22 15:30:21,384 : INFO : test_form_submission : Entered Email ray@gsgg.com
+2024-10-22 15:30:21,384 : INFO : test_form_submission : Entered Email ray@gsgg.com
+2024-10-22 15:30:21,384 : INFO : test_form_submission : Entered Email ray@gsgg.com
+2024-10-22 15:30:21,423 : INFO : test_form_submission : Entered Password i2ytyY
+2024-10-22 15:30:21,423 : INFO : test_form_submission : Entered Password i2ytyY
+2024-10-22 15:30:21,423 : INFO : test_form_submission : Entered Password i2ytyY
+2024-10-22 15:30:21,423 : INFO : test_form_submission : Entered Password i2ytyY
+2024-10-22 15:30:21,453 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,453 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,453 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,453 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,476 : INFO : test_form_submission : Entered Gender Male
+2024-10-22 15:30:21,476 : INFO : test_form_submission : Entered Gender Male
+2024-10-22 15:30:21,476 : INFO : test_form_submission : Entered Gender Male
+2024-10-22 15:30:21,476 : INFO : test_form_submission : Entered Gender Male
+2024-10-22 15:30:21,505 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,505 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,505 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,505 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,537 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,537 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,537 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,537 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,663 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:21,663 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:21,663 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:21,663 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:21,663 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:21,712 : INFO : test_form_submission : Entered Name Kavya
+2024-10-22 15:30:21,712 : INFO : test_form_submission : Entered Name Kavya
+2024-10-22 15:30:21,712 : INFO : test_form_submission : Entered Name Kavya
+2024-10-22 15:30:21,712 : INFO : test_form_submission : Entered Name Kavya
+2024-10-22 15:30:21,712 : INFO : test_form_submission : Entered Name Kavya
+2024-10-22 15:30:21,755 : INFO : test_form_submission : Entered Email kavya@gmail.com
+2024-10-22 15:30:21,755 : INFO : test_form_submission : Entered Email kavya@gmail.com
+2024-10-22 15:30:21,755 : INFO : test_form_submission : Entered Email kavya@gmail.com
+2024-10-22 15:30:21,755 : INFO : test_form_submission : Entered Email kavya@gmail.com
+2024-10-22 15:30:21,755 : INFO : test_form_submission : Entered Email kavya@gmail.com
+2024-10-22 15:30:21,798 : INFO : test_form_submission : Entered Password syyytssgffgGFGFG
+2024-10-22 15:30:21,798 : INFO : test_form_submission : Entered Password syyytssgffgGFGFG
+2024-10-22 15:30:21,798 : INFO : test_form_submission : Entered Password syyytssgffgGFGFG
+2024-10-22 15:30:21,798 : INFO : test_form_submission : Entered Password syyytssgffgGFGFG
+2024-10-22 15:30:21,798 : INFO : test_form_submission : Entered Password syyytssgffgGFGFG
+2024-10-22 15:30:21,828 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,828 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,828 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,828 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,828 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:21,866 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:21,866 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:21,866 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:21,866 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:21,866 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:21,894 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,894 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,894 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,894 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,894 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:21,922 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,922 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,922 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,922 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:21,922 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:22,039 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:22,039 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:22,039 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:22,039 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:22,039 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:22,039 : INFO : test_form_submission : Opened home page
+2024-10-22 15:30:22,094 : INFO : test_form_submission : Entered Name Ramya
+2024-10-22 15:30:22,094 : INFO : test_form_submission : Entered Name Ramya
+2024-10-22 15:30:22,094 : INFO : test_form_submission : Entered Name Ramya
+2024-10-22 15:30:22,094 : INFO : test_form_submission : Entered Name Ramya
+2024-10-22 15:30:22,094 : INFO : test_form_submission : Entered Name Ramya
+2024-10-22 15:30:22,094 : INFO : test_form_submission : Entered Name Ramya
+2024-10-22 15:30:22,143 : INFO : test_form_submission : Entered Email ramya@gmail.com
+2024-10-22 15:30:22,143 : INFO : test_form_submission : Entered Email ramya@gmail.com
+2024-10-22 15:30:22,143 : INFO : test_form_submission : Entered Email ramya@gmail.com
+2024-10-22 15:30:22,143 : INFO : test_form_submission : Entered Email ramya@gmail.com
+2024-10-22 15:30:22,143 : INFO : test_form_submission : Entered Email ramya@gmail.com
+2024-10-22 15:30:22,143 : INFO : test_form_submission : Entered Email ramya@gmail.com
+2024-10-22 15:30:22,187 : INFO : test_form_submission : Entered Password Ramya@1234#
+2024-10-22 15:30:22,187 : INFO : test_form_submission : Entered Password Ramya@1234#
+2024-10-22 15:30:22,187 : INFO : test_form_submission : Entered Password Ramya@1234#
+2024-10-22 15:30:22,187 : INFO : test_form_submission : Entered Password Ramya@1234#
+2024-10-22 15:30:22,187 : INFO : test_form_submission : Entered Password Ramya@1234#
+2024-10-22 15:30:22,187 : INFO : test_form_submission : Entered Password Ramya@1234#
+2024-10-22 15:30:22,218 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:22,218 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:22,218 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:22,218 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:22,218 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:22,218 : INFO : test_form_submission : Clicked on checkbox 
+2024-10-22 15:30:22,263 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:22,263 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:22,263 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:22,263 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:22,263 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:22,263 : INFO : test_form_submission : Entered Gender Female
+2024-10-22 15:30:22,293 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:22,293 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:22,293 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:22,293 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:22,293 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:22,293 : INFO : test_form_submission : Clicked on radio button
+2024-10-22 15:30:22,329 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:22,329 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:22,329 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:22,329 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:22,329 : INFO : test_form_submission : Submitted the form
+2024-10-22 15:30:22,329 : INFO : test_form_submission : Submitted the form
